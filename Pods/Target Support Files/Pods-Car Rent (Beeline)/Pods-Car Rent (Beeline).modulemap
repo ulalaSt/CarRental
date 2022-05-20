@@ -1,0 +1,6 @@
+framework module Pods_Car_Rent__Beeline_ {
+  umbrella header "Pods-Car Rent (Beeline)-umbrella.h"
+
+  export *
+  module * { export * }
+}
